@@ -1,0 +1,18 @@
+.column {
+  width: 300px;
+  float: left;
+  color: purple;
+  font-family: fantasy;
+  background-color: yellow;
+  padding: 4px;
+}
+
+.column h3 {
+  color: blue;
+  font-weight: bold;
+}
+
+.column h4 {
+  color: teal;
+  font-weight: bold;
+}
